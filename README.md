@@ -16,5 +16,5 @@ https://play.google.com/store/apps/details?id=info.u250.arctic
 
 
 By 
-1.Libgdx :http://libgdx.badlogicgames.com
-2.C2d-Engine: https://code.google.com/p/c2d-engine/
+ * Libgdx :http://libgdx.badlogicgames.com
+ * C2d-Engine: https://code.google.com/p/c2d-engine/
